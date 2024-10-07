@@ -6,11 +6,12 @@ This project provides a comprehensive analysis of salaries in the data science f
 The dataset used in this project is publicly available and contains detailed salary information across various job titles, company locations, and experience levels.
 
 ### Key Features
-Data Cleaning: The dataset was thoroughly cleaned by removing duplicate entries and handling missing values to ensure accuracy in the analysis.
-Salary Insights: We identify the top-paying job titles and analyze the geographical locations of companies that offer the highest compensation.
-Remote Work Analysis: Insights into job titles that offer the highest percentage of remote work, as well as country-level trends.
-Experience Level Comparison: Analysis of average salaries across different experience levels and job titles, with special focus on specific roles like Data Scientist and Data Modeler.
-Visualizations: Multiple visualizations, including bar charts and pie charts, were created to better communicate findings and trends.
+
+- Data Cleaning: The dataset was thoroughly cleaned by removing duplicate entries and handling missing values to ensure accuracy in the analysis.
+- Salary Insights: We identify the top-paying job titles and analyze the geographical locations of companies that offer the highest compensation.
+- Remote Work Analysis: Insights into job titles that offer the highest percentage of remote work, as well as country-level trends.
+- Experience Level Comparison: Analysis of average salaries across different experience levels and job titles, with special focus on specific roles like Data Scientist and Data Modeler.
+- Visualizations: Multiple visualizations, including bar charts and pie charts, were created to better communicate findings and trends.
 
 ### Table of Contents
 - Data
@@ -74,18 +75,24 @@ This analysis provides valuable insights into salary trends within the data scie
 ### How to Run the Notebook
 
 1. Clone this repository:
-bash
-Copiar código
+```
 git clone https://github.com/username/repository-name.git
 Install the required dependencies:
-bash
-Copiar código
+```
+
+```
 pip install -r requirements.txt
 Open the Jupyter notebook:
-bash
-Copiar código
+```
+```
 jupyter notebook analysis_salaries.ipynb
-License
+```
+
+### License
 This project is licensed under the MIT License.
 
-This README file provides a detailed overview of the project, ensuring clarity and professionalism for any viewers or collaborators.
+### Author
+- **Name**: Rosalía González Caviedes
+- **Email**: rosaliagonzalezc@gmail.com
+- [LinkedIn profile](https://www.linkedin.com/in/rosaliagonzalezcaviedes/)
+- [Github profile](https://github.com/liagcaviedes)
