@@ -39,16 +39,16 @@ The dataset used in this analysis consists of global salary data for various job
 
 ### Exploratory Data Analysis
 
-#### Top-Paying Job Titles
+- Top-Paying Job Titles
 Using average salary by job title, we determined the highest-paying roles in the dataset. The top 10 job titles include roles such as Data Scientist, Machine Learning Engineer, and Data Architect, with the highest salaries reaching over $200,000 annually.
 
-#### Company Locations and Salaries
+- Company Locations and Salaries
 We explored the geographic locations of companies offering the highest salaries. Companies located in [Country with highest salaries] have the highest average salaries, with compensation well above the global average.
 
-#### Remote Work Trends
+- Remote Work Trends
 A key analysis in this project is determining which job titles and countries offer the most remote work opportunities. Our findings show that some roles, such as [Top Remote Job Title], are predominantly remote, with a remote work percentage of up to 100%.
 
-#### Experience Levels and Salary Comparison
+- Experience Levels and Salary Comparison
 The dataset was segmented by experience levels to analyze salary trends across junior, mid-level, and senior roles. For instance, Data Scientists at a Senior level (SE) earn significantly more than their junior counterparts.
 
 ### Visualizations
