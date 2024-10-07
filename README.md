@@ -1,4 +1,4 @@
-# Data Science Salaries Analysis
+# Data Salaries Analysis
 
 ## Overview
 This project provides a comprehensive analysis of salaries in the data science field using a dataset containing global job positions, salaries, and employment information. By performing exploratory data analysis (EDA), we uncover key insights into the highest-paying job titles, locations with the best compensation, and remote work trends within the industry.
@@ -14,15 +14,15 @@ The dataset used in this project is publicly available and contains detailed sal
 - Visualizations: Multiple visualizations, including bar charts and pie charts, were created to better communicate findings and trends.
 
 ### Table of Contents
-- Data
-- Cleaning and Preprocessing
-- Exploratory Data Analysis
+- [Data](#Data)
+- [Cleaning and Preprocessing](Cleaning and Preprocessing)
+- [Exploratory Data Analysis](#Exploratory Data Analysis)
     - Top-Paying Job Titles
     - Company Locations and Salaries
     - Remote Work Trends
     - Experience Levels and Salary Comparison
-- Visualizations
-- Conclusion
+- [Visualizations](#Visualizations)
+- [Conclusion](#Conclusion)
 
 ### Data
 The dataset used in this analysis consists of global salary data for various job titles in the data science field. Key columns include:
@@ -80,13 +80,6 @@ git clone https://github.com/username/repository-name.git
 Install the required dependencies:
 ```
 
-```
-pip install -r requirements.txt
-Open the Jupyter notebook:
-```
-```
-jupyter notebook analysis_salaries.ipynb
-```
 
 ### License
 This project is licensed under the MIT License.
