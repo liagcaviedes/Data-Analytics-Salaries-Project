@@ -1,4 +1,4 @@
-# Data Science Salaries Analysis
+# Data Salaries Analysis
 
 ## Overview
 This project provides a comprehensive analysis of salaries in the data science field using a dataset containing global job positions, salaries, and employment information. By performing exploratory data analysis (EDA), we uncover key insights into the highest-paying job titles, locations with the best compensation, and remote work trends within the industry.
