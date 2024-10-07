@@ -80,13 +80,6 @@ git clone https://github.com/username/repository-name.git
 Install the required dependencies:
 ```
 
-```
-pip install -r requirements.txt
-Open the Jupyter notebook:
-```
-```
-jupyter notebook analysis_salaries.ipynb
-```
 
 ### License
 This project is licensed under the MIT License.
