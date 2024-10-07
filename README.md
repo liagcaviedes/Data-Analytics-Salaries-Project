@@ -14,15 +14,15 @@ The dataset used in this project is publicly available and contains detailed sal
 - Visualizations: Multiple visualizations, including bar charts and pie charts, were created to better communicate findings and trends.
 
 ### Table of Contents
-- Data
-- Cleaning and Preprocessing
-- Exploratory Data Analysis
+- [Data](#Data)
+- [Cleaning and Preprocessing](Cleaning and Preprocessing)
+- [Exploratory Data Analysis](#Exploratory Data Analysis)
     - Top-Paying Job Titles
     - Company Locations and Salaries
     - Remote Work Trends
     - Experience Levels and Salary Comparison
-- Visualizations
-- Conclusion
+- [Visualizations](#Visualizations)
+- [Conclusion](#Conclusion)
 
 ### Data
 The dataset used in this analysis consists of global salary data for various job titles in the data science field. Key columns include:
