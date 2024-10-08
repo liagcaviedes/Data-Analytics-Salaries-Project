@@ -60,6 +60,7 @@ We utilized various visualizations to enhance the understanding of the dataset:
 - Comparative Analysis: Graphs comparing the average salaries of Data Scientists to all other job titles, as well as full-time vs part-time salary differences for ML Engineers.
 
 Figure 1: Top 10 job titles by average salary
+[visualization](#Top_10_salaries.png)
 
 Figure 2: Top 20 job titles offering remote work
 
