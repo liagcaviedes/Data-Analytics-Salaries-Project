@@ -15,8 +15,8 @@ The dataset used in this project is publicly available and contains detailed sal
 
 ### Table of Contents
 - [Data](#Data)
-- [Cleaning and Preprocessing](Cleaning and Preprocessing)
-- [Exploratory Data Analysis](#Exploratory Data Analysis)
+- [Cleaning and Preprocessing](#Cleaning_and_Preprocessing)
+- [Exploratory Data Analysis](#Exploratory_Data_Analysis)
     - Top-Paying Job Titles
     - Company Locations and Salaries
     - Remote Work Trends
