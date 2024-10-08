@@ -15,8 +15,8 @@ The dataset used in this project is publicly available and contains detailed sal
 
 ### Table of Contents
 - [Data](#Data)
-- [Cleaning and Preprocessing](Cleaning and Preprocessing)
-- [Exploratory Data Analysis](#Exploratory Data Analysis)
+- [Cleaning and Preprocessing](#Cleaning_and_Preprocessing)
+- [Exploratory Data Analysis](#Exploratory_Data_Analysis)
     - Top-Paying Job Titles
     - Company Locations and Salaries
     - Remote Work Trends
@@ -60,6 +60,7 @@ We utilized various visualizations to enhance the understanding of the dataset:
 - Comparative Analysis: Graphs comparing the average salaries of Data Scientists to all other job titles, as well as full-time vs part-time salary differences for ML Engineers.
 
 Figure 1: Top 10 job titles by average salary
+![visualization](#Top_10_salaries.png)
 
 Figure 2: Top 20 job titles offering remote work
 
