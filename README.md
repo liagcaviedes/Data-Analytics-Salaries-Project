@@ -61,11 +61,11 @@ We utilized various visualizations to enhance the understanding of the dataset:
 
 Figure 1: Top 10 job titles by average salary
 
-![Image](Top_10_salaries.png)
+![Image](images/Top_10_salaries.png)
 
 Figure 2: Top 20 job titles offering remote work
 
-![Image](top_20_remote.png)
+![Image](images/top_20_remote.png)
 
 ### Conclusion
 
